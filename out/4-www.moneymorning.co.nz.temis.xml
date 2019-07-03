@@ -1,0 +1,27 @@
+<enrichment>
+    <annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2019/07/03 18:15:31">
+        <docID value="conv-868f1b89-6b9d-430b-aa62-e8b48ce2fe96"/>
+        <language value="English"/>
+        <ContentFilter>No chapter to filter out for conv-868f1b89-6b9d-430b-aa62-e8b48ce2fe96</ContentFilter>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Auckland" score="5.2922373" zScore="0.96407694">Auckland</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland" score="0.12687548" zScore="-0.8916937">Ireland</coverage>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand" score="9.667322" zScore="2.535923">New Zealand</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Singapore" score="0.24131693" zScore="-0.850578">Singapore</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom" score="0.13051583" zScore="-0.8903858">United Kingdom</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates" score="2.2993155" zScore="-0.11119652">United States</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#WesternAsia" score="0.5041595" zScore="-0.7561461">Western Asia</coverage>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1350" score="1.1332376" zScore="-0.84212136">teaching personnel</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2489" score="1.8258415" zScore="-0.76034725">airports</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2717" score="0.7966967" zScore="-0.88185596">managers</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2828" score="0.8054159" zScore="-0.8808265">cash flow</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2940" score="3.1370184" zScore="-0.6055396">wages</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4268" score="5.055657" zScore="-0.37901038">risk</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5327" score="1.0876008" zScore="-0.8475096">teachers wages</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T593" score="16.401196" zScore="0.9605311">mental health</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T655" score="8.361541" zScore="0.011307666">income</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T835" score="4.691857" zScore="-0.42196342">business</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T918" score="41.717934" zScore="3.9496195">corporations</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T934" score="0.8054159" zScore="-0.8808265">bureaucracy</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T999" score="21.635572" zScore="1.5785419">employment</subject>
+    </annotation>
+</enrichment>

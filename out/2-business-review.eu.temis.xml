@@ -1,0 +1,26 @@
+<enrichment>
+    <annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2019/07/03 17:52:21">
+        <docID value="conv-36263f45-8804-45b9-93bf-e603b4cb1fb9"/>
+        <language value="English"/>
+        <ContentFilter>No chapter to filter out for conv-36263f45-8804-45b9-93bf-e603b4cb1fb9</ContentFilter>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe" score="0.4660154" zScore="-0.61283505">Europe</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#France" score="0.16028795" zScore="-0.69978887">France</coverage>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Romania" score="9.652677" zScore="2.0">Romania</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom" score="0.20393094" zScore="-0.68737614">United Kingdom</coverage>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2432" score="0.33375952" zScore="-0.6037872">economic co-operation</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2567" score="8.915319" zScore="-0.001939561">taxes</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2568" score="0.35183516" zScore="-0.6025195">corporate income tax</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T3779" score="0.3892076" zScore="-0.59989846">local taxes</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4921" score="0.52011245" zScore="-0.5907178">transfer pricing</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T5726" score="115.88317" zScore="7.5000005">base erosion and profit shifting</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5734" score="0.43311325" zScore="-0.5968193">tax compliance</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5746" score="0.6435766" zScore="-0.5820589">permanent establishment</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5819" score="0.25835034" zScore="-0.60907584">tax policy</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5977" score="0.7088344" zScore="-0.57748216">information analytics</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6032" score="0.30079278" zScore="-0.60609925">development co-operation</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6140" score="0.23787527" zScore="-0.61051184">use of data</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6173" score="0.5619361" zScore="-0.5877845">digital economy</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6422" score="0.38687688" zScore="-0.6000619">boards of directors</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T918" score="4.2198725" zScore="-0.33124375">corporations</subject>
+    </annotation>
+</enrichment>

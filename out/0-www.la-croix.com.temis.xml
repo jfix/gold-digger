@@ -1,0 +1,21 @@
+<enrichment>
+    <annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2019/07/03 18:12:17">
+        <docID value="conv-eb89fc7b-c4b3-4479-8444-9ceb61a0d095"/>
+        <language value="French"/>
+        <ContentFilter>No chapter to filter out for conv-eb89fc7b-c4b3-4479-8444-9ceb61a0d095</ContentFilter>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#France" score="9.836498" zScore="0.0">France</coverage>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1286" score="5.5076103" zScore="-0.087473765">apprenticeship</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1302" score="1.6788706" zScore="-0.5329877">educational sciences</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1305" score="4.4653172" zScore="-0.20875548">teaching</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1332" score="0.53387004" zScore="-0.6662205">primary schools</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T1347" score="62.12025" zScore="6.5">teachers</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1350" score="0.7876702" zScore="-0.63668823">teaching personnel</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1397" score="1.9440826" zScore="-0.5021275">students</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2852" score="0.56041425" zScore="-0.66313183">employment security</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T3114" score="0.3208794" zScore="-0.6910042">neighbourhoods</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T43" score="1.4683568" zScore="-0.5574832">training</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4475" score="0.76487446" zScore="-0.63934076">classes</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5410" score="0.7378236" zScore="-0.6424884">information and communications technology</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5862" score="0.4816382" zScore="-0.6722983">school facilities</subject>
+    </annotation>
+</enrichment>

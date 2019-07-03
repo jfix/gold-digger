@@ -1,0 +1,37 @@
+<enrichment>
+    <annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2019/07/03 18:14:49">
+        <docID value="conv-26f79cfa-4f5e-4b60-acb9-bbfc8afeb59c"/>
+        <language value="English"/>
+        <ContentFilter>No chapter to filter out for conv-26f79cfa-4f5e-4b60-acb9-bbfc8afeb59c</ContentFilter>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Argentina" score="0.2941295" zScore="-0.633671">Argentina</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Beijing" score="0.5035464" zScore="-0.61436176">Beijing</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#China" score="1.9692578" zScore="-0.47921613">China</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#DevelopingCountries" score="0.96911454" zScore="-0.5714341">Developing countries</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe" score="0.1427689" zScore="-0.6476272">Europe</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#G20Countries" score="4.5301843" zScore="-0.24308644">G20 countries</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Johannesburg" score="0.58869493" zScore="-0.60651064">Johannesburg</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Moscow" score="0.5224828" zScore="-0.6126157">Moscow</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Osaka" score="2.9584794" zScore="-0.38800517">Osaka</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Poland" score="0.17626143" zScore="-0.644539">Poland</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#SaintPetersburg" score="1.6554738" zScore="-0.5081485">Saint Petersburg</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Seoul" score="1.8633922" zScore="-0.48897743">Seoul</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Tokyo" score="2.0971453" zScore="-0.46742427">Tokyo</coverage>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates" score="88.50723" zScore="7.5">United States</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#WesternAsia" score="0.72022784" zScore="-0.5943827">Western Asia</coverage>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1080" score="0.6842368" zScore="-1.050002">political science</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T117" score="0.75549173" zScore="-1.0158727">international negotiations</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T122" score="2.3176634" zScore="-0.26763257">isolationism</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1347" score="2.23972" zScore="-0.30496544">teachers</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T163" score="15.211667" zScore="5.908264">trade</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T181" score="2.2759583" zScore="-0.28760827">international trade</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2432" score="0.77979344" zScore="-1.0042328">economic co-operation</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T2463" score="4.0178423" zScore="0.5467095">protectionism</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T4898" score="3.6104841" zScore="0.35159534">climate change</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T5353" score="3.250147" zScore="0.17900316">multilateral trade</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5449" score="0.75549173" zScore="-1.0158727">carbon markets</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T5643" score="3.9504418" zScore="0.51442635">foreign direct investment</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6173" score="0.75549173" zScore="-1.0158727">digital economy</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6339" score="0.8519327" zScore="-0.96967995">emerging markets</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6839" score="1.6900111" zScore="-0.5682619">global market</subject>
+    </annotation>
+</enrichment>

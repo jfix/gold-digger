@@ -1,0 +1,37 @@
+<enrichment>
+    <annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2019/07/03 18:13:26">
+        <docID value="conv-f9c6b68c-dde8-49c7-9dc4-0853dadf1685"/>
+        <language value="French"/>
+        <ContentFilter>No chapter to filter out for conv-f9c6b68c-dde8-49c7-9dc4-0853dadf1685</ContentFilter>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Algeria" score="0.9453482" zScore="-0.56104505">Algeria</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Americas" score="0.9989462" zScore="-0.5551978">Americas</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Asia" score="0.55267596" zScore="-0.60388374">Asia</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe" score="0.32590488" zScore="-0.62862337">Europe</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#France" score="1.5808657" zScore="-0.4917131">France</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Italy" score="0.38515514" zScore="-0.6221594">Italy</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Libya" score="1.0897595" zScore="-0.54529047">Libya</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Malta" score="1.0253001" zScore="-0.5523227">Malta</coverage>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Marseille" score="14.175634" zScore="0.8823159">Marseille</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Mauritania" score="1.0070928" zScore="-0.554309">Mauritania</coverage>
+        <coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Mediterranean" score="66.747765" zScore="6.617684">Mediterranean</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Morocco" score="0.75538576" zScore="-0.58176905">Morocco</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Portugal" score="0.43275696" zScore="-0.6169663">Portugal</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain" score="0.3908034" zScore="-0.6215432">Spain</coverage>
+        <coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Tunisia" score="0.9074754" zScore="-0.5651768">Tunisia</coverage>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1198" score="1.1551375" zScore="-0.0714604">youth organisations</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1292" score="0.9734448" zScore="-0.3319852">schools</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1322" score="1.0485361" zScore="-0.22431368">graduates</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T16" score="0.3842362" zScore="-1.1768372">international organisations</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1871" score="0.7702697" zScore="-0.6233131">economic integration</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2971" score="0.30972227" zScore="-1.2836809">engineers</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4986" score="0.48128682" zScore="-1.0376786">civil society</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5098" score="0.63765734" zScore="-0.81346273">human development</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T5874" score="2.3237586" zScore="1.604197">employability</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6014" score="0.88243026" zScore="-0.46248877">civil society organisations</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6021" score="0.99874777" zScore="-0.29570392">country dialogue</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6279" score="0.62937737" zScore="-0.8253352">youth employment</subject>
+        <subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T64" score="0.95827156" zScore="-0.35374177">project implementation</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T720" score="4.488766" zScore="4.7085495">youth</subject>
+        <subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T982" score="2.0329778" zScore="1.1872536">educational systems</subject>
+    </annotation>
+</enrichment>
